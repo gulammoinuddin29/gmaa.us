@@ -1,0 +1,200 @@
+@media (max-width:480px){
+  .btn-red {
+    display: inline-block;
+    background-color: #AC0012;
+    color: white;
+    border: none;
+    min-width: 100px;
+    font-size: 14px;
+    line-height: 30px;
+    padding: 18px 30px !important;
+    border-radius: 6px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.header .logo {
+    max-height: 58px !important;
+}
+.subscribe-input {
+  padding: 17px 20px;
+  border: none;
+  margin-right: 15px;
+  width: 200px !important;
+}
+.btn-subscribe {
+  background-color: transparent;
+  border: 3px solid rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  padding: 10px 30px;
+  margin-top: 20px;
+}
+.subscribe h2{
+  color: white;
+  font-size: 17px;
+}
+.banner h1{
+  font-size: 26px !important;
+  font-weight: 500 !important;
+}
+.owl-nav button {
+  position: absolute !important;
+  display: inline-block !important;
+  text-align: center !important;
+  background: transparent !important;
+  width: 35px !important;
+  height: 35px !important;
+  cursor: pointer !important;
+  line-height: 10px !important;
+  font-size: 40px !important;
+  color: rgb(252, 247, 247) !important;
+  border: 2px solid rgb(240, 233, 233) !important;
+  transition: all 500ms ease !important;
+  padding-bottom: 10px !important;
+}
+.owl-nav button.owl-prev {
+  top: 100px !important;
+  left: 10px !important;
+}
+.owl-nav button.owl-next {
+  top: 100px !important;
+  right: 10px !important;
+}
+.owl-carousel .owl-nav button.owl-next{
+  padding-bottom: 10px !important;
+}
+.btn-green{
+  margin-bottom: 10px;
+}
+.footer p{
+  text-align: center;
+}
+.footer{
+  text-align: center !important;
+}
+.navbar-collapse{
+  text-align: center;
+  background-color: black;
+}
+/* .footer ul li{
+  text-align: center !important;
+  padding-left: 0px !important;
+} */
+.section-title h2{
+  font-size: 28px !important;
+}
+.section-title h6{
+  font-size: 14px !important;
+}
+.footer ul li {
+  padding-left: 80px;
+}
+
+}
+
+@media (max-width:768px){
+  .f-title{
+    font-size: 10px !important;
+  }
+  .copyright p,a{
+    font-size: 13px;
+  }
+  .navitem ul li{
+    text-align: center;
+  }
+  .about-banner{
+    font-size: 50px;
+  }
+  .team h4{
+    font-size: 18px;
+  }
+  .section-title h2{
+    font-size: 34px;
+  }
+  .activities{
+    font-size: 15px;
+  }
+  .navbar-collapse{
+    text-align: center;
+    background-color: black;
+}
+}
+
+@media (max-width:992px){
+    .header .logo {
+        max-height: 58px !important;
+    }
+    .navbar .container{
+        width: 100%;
+    }
+    .navbar-nav .nav-link{
+      font-size: 14px;
+    }
+    .btn-red {
+      display: inline-block;
+      background-color: #AC0012;
+      color: white;
+      border: none;
+      min-width: 100px;
+      font-size: 14px;
+      line-height: 30px;
+      padding: 10px 20px !important;
+      border-radius: 6px;
+      text-align: center;
+      text-decoration: none;
+  }
+
+
+}
+
+@media (max-width:1440px){
+    .header .logo {
+        max-height: 60px !important;
+    }
+    .navbar-nav .nav-link{
+      font-size: 14px;
+    }
+    .nav-head{
+        width: 100% !important;
+        
+    }
+    .btn-red {
+      display: inline-block;
+      background-color: #AC0012;
+      color: white;
+      border: none;
+      min-width: 100px;
+      font-size: 14px;
+      line-height: 30px;
+      /* padding: 10px 30px !important; */
+      border-radius: 6px;
+      text-align: center;
+      text-decoration: none;
+  }
+  .banner h1{
+     font-size: 50px;
+     font-weight: 700;
+     line-height: 1.2;
+     padding-bottom: 15px;
+  }
+}
+    
+
+
+/* =================================================== */
+/* 7 inch Tablet Screen 
+@media (min-width:600px) and (max-width:768px){
+
+}
+
+9-10 inch Tablet Screen 
+@media (min-width:769px) and (max-width:1024px){
+
+}
+
+full All Tablet Screen 
+@media (min-width:600px) and (max-width:1024px){
+
+} */
